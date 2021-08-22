@@ -15,4 +15,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnsougata)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnsougata&count_private=true&show_icons=true&theme=onedark&hide=contribs,prs,stars,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnsougata&count_private=true&show_icons=true&theme=dark&hide=contribs,prs,stars,issues)
