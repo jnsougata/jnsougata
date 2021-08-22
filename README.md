@@ -19,7 +19,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jnsougata&repo=Ditch-YouTube-API"/>
 </a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jnsougata&repo=jnsougata"/>
+</a>
 
 
 
