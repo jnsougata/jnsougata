@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Sougata</h1>
-<h3 align="center">A dev from India</h3>
 
 - 🔭 I’m currently working on [Ditch-YouTube-API](https://github.com/jnsougata/Ditch-YouTube-API)
 
