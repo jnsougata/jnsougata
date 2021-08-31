@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Sougata</h1>
 
-- 🔭 I’m currently working on [Ditch-YouTubeAPI](https://github.com/jnsougata/Ditch-YouTubeAPI)
+- 💻 Currently working on [Ditch-YouTubeAPI](https://github.com/jnsougata/Ditch-YouTubeAPI)
 
-- Currently Learning **Python, JavaScript**
+- 📌 Learning: **JavaScript**
+
+- 🧪 Experimenting: **Python**
 
 
 - <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
