@@ -14,5 +14,5 @@
 
 
 <a href="https://github.com/jnsougata/Ditch-YouTubeAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jnsougata&repo=Ditch-YouTube-API"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jnsougata&repo=Ditch-YouTubeAPI"/>
 </a>
