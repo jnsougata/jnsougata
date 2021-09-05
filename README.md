@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Sougata</h1>
 
-- 💻 **Working on** [**Ditch YouTubeAPI**](https://pypi.org/project/dya/)
-- 📁 **Alpha v1** [**Image.IO**](https://github.com/jnsougata/Image.IO)
+- 💻 **Working on** [**Ditch YouTubeAPI**](https://pypi.org/project/dya/) 
+    - -> [**[ PyPi ]**](https://pypi.org/project/dya/)
+- 📁 **Alpha v1** [**Image.IO**](https://github.com/jnsougata/Image.IO) 
+    - -> [**[ PyPi ]**](https://pypi.org/project/image.io/)
 
 - 📂 **My Stuffs:**
     - <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> **Doing Experiments** 
