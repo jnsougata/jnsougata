@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sougata</h1>
 
-- 💻 **Working on** [**Ditch YouTubeAPI**](https://pypi.org/project/dya/) 
+- 💻 **Working on** [**Ditch YouTubeAPI**](https://github.com/jnsougata/Ditch-YouTubeAPI/) 
     - -> [**[ PyPi ]**](https://pypi.org/project/dya/)
-- 📁 **Alpha v1** [**Image.IO**](https://github.com/jnsougata/Image.IO) 
+- 📁 **Alpha v1** [**Image.IO**](https://github.com/jnsougata/Image.IO/) 
     - -> [**[ PyPi ]**](https://pypi.org/project/image.io/)
 
 - 📂 **My Stuffs:**
