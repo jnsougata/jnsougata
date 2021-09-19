@@ -3,6 +3,7 @@
 - 💻 **WIP** 
     - [**Ditch YouTubeAPI**](https://github.com/jnsougata/Ditch-YouTubeAPI/)   
     - [**Image.IO**](https://github.com/jnsougata/Image.IO/) 
+    - [**FakeThreading**](https://github.com/jnsougata/FakeThreading)
 
 - 📂 **My Stuffs:**
     - <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> **Doing Experiments** 
