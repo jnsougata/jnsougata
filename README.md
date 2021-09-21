@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sougata</h1>
+![alt text](https://github.com/jnsougata/jnsougata/blob/main/src/intro_image.jpg)
 
 - 💻 **WIP** 
     - [**Ditch YouTubeAPI**](https://github.com/jnsougata/Ditch-YouTubeAPI/)   
