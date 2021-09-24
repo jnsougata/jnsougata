@@ -1,4 +1,4 @@
-![alt text](https://github.com/jnsougata/jnsougata/blob/main/src/intro_image.jpg)
+![alt text](https://raw.githubusercontent.com/jnsougata/jnsougata/main/src/banner.jpg)
 
 - 💻 **WIP** 
     - [**Ditch YouTubeAPI**](https://github.com/jnsougata/Ditch-YouTubeAPI/)   
