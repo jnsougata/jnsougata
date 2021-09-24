@@ -2,7 +2,7 @@
 
 - 💻 **WIP** 
     - [**Ditch YouTubeAPI**](https://github.com/jnsougata/Ditch-YouTubeAPI/)   
-    - [**Image.IO**](https://github.com/jnsougata/Image.IO/) 
+    - [**image.io**](https://github.com/jnsougata/Image.IO/) 
     - [**PyThread**](https://github.com/jnsougata/FakeThreading)
 
 - 📂 **My Stuffs:**
