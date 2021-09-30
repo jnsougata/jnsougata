@@ -1,7 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/jnsougata/jnsougata/main/src/banner.jpg)
 
 - 💻 **WIP** 
-    - [**Ditch YouTubeAPI**](https://github.com/jnsougata/Ditch-YouTubeAPI/)   
+    - [**AioTube**](https://github.com/jnsougata/Ditch-YouTubeAPI/)   
     - [**image.io**](https://github.com/jnsougata/Image.IO/) 
     - [**PyThread**](https://github.com/jnsougata/FakeThreading)
 
