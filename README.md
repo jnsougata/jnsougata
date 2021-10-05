@@ -2,7 +2,7 @@
 
 - 💻 **WIP** 
     - [**AioTube**](https://github.com/jnsougata/Ditch-YouTubeAPI/)   
-    - [**image.io**](https://github.com/jnsougata/Image.IO/) 
+    - [**AsyncTube**](https://github.com/jnsougata/AsyncTube/) 
     - [**PyThread**](https://github.com/jnsougata/FakeThreading)
 
 - 📂 **My Stuffs:**
