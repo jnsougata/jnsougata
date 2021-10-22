@@ -3,7 +3,7 @@
 - 💻 **WIP** 
     - [**AioTube**](https://github.com/jnsougata/Ditch-YouTubeAPI/)   
     - [**AsyncTube**](https://github.com/jnsougata/AsyncTube/) 
-    - [**PyThread**](https://github.com/jnsougata/FakeThreading)
+    - [**discord.ez**](https://github.com/jnsougata/discord.ez)
 
 - 📂 **My Stuffs:**
     - <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> **Doing Experiments** 
