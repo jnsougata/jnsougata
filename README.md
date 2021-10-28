@@ -1,9 +1,11 @@
 ![alt text](https://raw.githubusercontent.com/jnsougata/jnsougata/main/src/banner.jpg)
 
 - 💻 **WIP** 
-    - [**AioTube**](https://github.com/jnsougata/Ditch-YouTubeAPI/)   
+    
+    - [**Ezcord**](https://github.com/jnsougata/Ezcord)
     - [**AsyncTube**](https://github.com/jnsougata/AsyncTube/) 
-    - [**discord.ez**](https://github.com/jnsougata/discord.ez)
+    - [**AioTube**](https://github.com/jnsougata/AioTube/)   
+    
 
 - 📂 **My Stuffs:**
     - <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> **Doing Experiments** 
