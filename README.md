@@ -2,7 +2,6 @@
 
 - 💻 **WIP** 
     
-    - [**Ezcord**](https://github.com/jnsougata/Ezcord)
     - [**AioTube**](https://github.com/jnsougata/AioTube/)   
     - [**AsyncTube**](https://github.com/jnsougata/AsyncTube/) 
     
