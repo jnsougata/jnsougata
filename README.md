@@ -2,7 +2,7 @@
 
 - 📦 **PKG** 
     
-    - [**AioTube**](https://pypi.org/project/AioTube/)   
+    - [**AioTube**](https://pypi.org/project/aiotube/)   
     - [**AirDrive**](https://pypi.org/project/airdrive/)
   
 - 📂 **My Stuffs:**
