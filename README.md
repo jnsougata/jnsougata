@@ -6,7 +6,7 @@
     - [**app_util**](https://pypi.org/project/app-util/)
   
 - 📂 **My Stuffs:**
-    - <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> **Using** 
+    - <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> **Exploring** 
 
     -  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="25" height="25"/></a> **Learning** 
     
