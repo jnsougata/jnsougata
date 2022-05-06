@@ -7,7 +7,7 @@
 - 📦 **Libs:** 
     
     - [**aiotube**](https://github.com/jnsougata/aiotube)   
-    - [**sync-deta**](https://github.com/jnsougata/async-deta)
+    - [**async-deta**](https://github.com/jnsougata/async-deta)
   
 - 📂 **Stuffs:**
     - <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> **Exploring** 
