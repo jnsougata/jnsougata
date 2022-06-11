@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://jnsougata.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+visitor+👋;Click+to+collect+your+perks...;&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;&center=true&size=20">
   </a>
 </h1>
 
