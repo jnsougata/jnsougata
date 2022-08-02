@@ -11,4 +11,4 @@
  <a href="https://go.dev/">GoLang</a> - A fairly fast language
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnsougata&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnsougata&layout=compact&theme=radical)]
