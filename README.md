@@ -1,8 +1,8 @@
 <details>
-<summary>📦 Packages</summary>
+<summary>📦 Libraries</summary>
  <a href="https://github.com/jnsougata/aiotube">AioTube</a> - Alternative to YouTube-Public-Data-API v3
  <br>
- <a href="https://github.com/jnsougata/deta">Deta</a> - Async version of deta Base & Drive SDK
+ <a href="https://github.com/jnsougata/deta">Deta</a> - Async version of Deta cloud Base & Drive SDK
  <br>
  <a href="https://github.com/jnsougata/deta">Discohook</a> - Discord bot framework for serverless apps
 <details>
