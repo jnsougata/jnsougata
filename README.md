@@ -3,7 +3,8 @@
  <a href="https://github.com/jnsougata/aiotube">AioTube</a> - Alternative to YouTube-Public-Data-API v3
  <br>
  <a href="https://github.com/jnsougata/deta">Deta</a> - Async version of deta Base & Drive SDK
-</details>
+ <br>
+ <a href="https://github.com/jnsougata/deta">Discohook</a> - Discord bot framework for serverless apps
 <details>
 <summary>♨️ Languages</summary>
  <a href="https://www.python.org/">Python</a> - A very slow Language
