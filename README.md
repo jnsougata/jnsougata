@@ -5,6 +5,7 @@
  <a href="https://github.com/jnsougata/deta">Deta</a> - Async version of Deta cloud Base & Drive SDK
  <br>
  <a href="https://github.com/jnsougata/deta">Discohook</a> - Discord bot framework for serverless apps
+ </details>
 <details>
 <summary>♨️ Languages</summary>
  <a href="https://www.python.org/">Python</a> - A very slow Language
