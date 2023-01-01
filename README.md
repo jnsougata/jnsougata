@@ -9,7 +9,3 @@ I love to write in `Python` `Go` `Rust` and `C` - `C++` sometimes.
  <br><a href="https://github.com/jnsougata/deta">Deta</a> - Async version of Deta cloud Base & Drive SDK
  <br><a href="https://github.com/jnsougata/discohook">Discohook</a> - Discord bot framework for serverless apps
  <br><a href="https://github.com/jnsougata/filebox">FileBox</a> - A free 10GB cloud storage App on Deta Space
-
-### using unstable os on my primary device
-so I usually commit every line :D cause you never know if you can login at the next boot
- 
