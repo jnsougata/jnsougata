@@ -10,8 +10,3 @@ I describe myself as a student who loves coding, open source, and the software d
 
 ## 💡Learning
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnsougata&layout=compact&theme=radical)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://vistor-counter.deta.dev/" />
-</p>
