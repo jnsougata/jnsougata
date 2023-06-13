@@ -1,4 +1,4 @@
-### 👋 Hi there…
+### 👋 Hi There
 I describe myself as a student who loves coding, open source, and the software design. 
 <br>I like to create and contribute to open source projects, helps me to learn a ton of new stuff.
 
