@@ -16,21 +16,4 @@ Most of it starts as a mess, but ends up working with hacky brilliance.
 > Real AI (not the LLM hype): If it can't learn and forget, is it even intelligent, bro?<br>
 > Knowledge Graphs: Graphs that even machines can understand. Sometimes..<br>
 
-⚙️ **Tech Stack**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnsougata&layout=compact&theme=github_dark&hide_border=true" height="150">
-</p>
-
-
-
-🔥 **Activity**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnsougata&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" height="150">
-</p>
-
-📫 **Let’s Talk Nerdy Stuff**  
-[LinkedIn](https://linkedin.com/in/jnsougata) • [Email](mailto:jnsougata@gmail.com)
-
----
-
-> _“Build the tools you wish existed. Then refactor them at 2 AM.”_
+_“Build the tools you wish existed. Then refactor them at 2 AM.”_
