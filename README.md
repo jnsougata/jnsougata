@@ -26,7 +26,6 @@ Most of it starts as a mess, but ends up working with hacky brilliance.
 🔥 **Activity**
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jnsougata&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" height="150">
-  <img src="https://streak-stats.demolab.com?user=jnsougata&theme=github-dark&hide_border=true" height="150">
 </p>
 
 📫 **Let’s Talk Nerdy Stuff**  
