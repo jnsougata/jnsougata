@@ -1,5 +1,5 @@
 <h1 align="left">Hey there, I’m Sougata 👋</h1>
-<p align="left">Ph.D @ <a href="https://nitdgp.ac.in/">NITD</a> · Maker of weirdly useful things · Based in Kolkata, India</p>
+<p align="left">PhD @ <a href="https://nitdgp.ac.in/">NITD</a> · Maker of weirdly useful things · Based in Kolkata, India</p>
 
 ---
 
